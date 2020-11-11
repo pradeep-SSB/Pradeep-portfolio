@@ -2,7 +2,7 @@
 ##Amazon Aws --- https://pradeep-portfolio.s3.amazonaws.com/index.html
 
 ###Hosting services -- Amazon aws S3, GitHub static hosting.
-#Tech Stack -- JavaScript, HTML, CSS, SCSS, Bootstrap
+###Tech Stack -- JavaScript, HTML, CSS, SCSS, Bootstrap
 
 
 
